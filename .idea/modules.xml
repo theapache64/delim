@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/delim.iml" filepath="$PROJECT_DIR$/delim.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easy_parser.iml" filepath="$PROJECT_DIR$/easy_parser.iml" />
     </modules>
   </component>
 </project>

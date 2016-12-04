@@ -1,5 +1,5 @@
-# delim
+# easy_parser
 A simple text data parser 
 
 ##### target syntax
-delim (-f (file-path)) (-r (reg-ex)) (-o "@%s,")
+ep (-f (file-path)) (-r (reg-ex)) (-o "@%s,")
