@@ -24,7 +24,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        args = new String[]{"-f", "/home/theapache64/Desktop/test_file.html", "-r", "<a href=\"\\/(.+)\" class=\"author\">", "-o", "@%s,"};
+        //args = new String[]{"-f", "/home/theapache64/Desktop/test_file.html", "-r", "<a href=\"\\/(.+)\" class=\"author\">", "-o", "@%s,"};
 
         try {
             final CommandLine cl = parser.parse(OPTIONS, args);
